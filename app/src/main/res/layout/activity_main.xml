@@ -53,6 +53,7 @@
             android:id="@+id/icon"
             android:layout_width="100dp"
             android:padding="5dp"
+            android:visibility="gone"
             android:layout_gravity="center"
             android:layout_height="100dp"/>
         <TextView
